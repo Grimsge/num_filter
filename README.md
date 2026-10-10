@@ -24,10 +24,12 @@ python num_filter.py
 
 Файл numbers.csv должен лежать рядом. Формат — колонка value:
 
+```
 value
 1
 2
 3
+```
 
 ## Функции
 
